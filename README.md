@@ -43,10 +43,3 @@ Framework: Streamlit (Frontend & UI)
 AI Engine: OpenAI API (GPT-4o / GPT-4o-mini)
 
 Image Processing: Pillow (PIL)
-
-  urllib3==2.6.3
-  uvicorn==0.46.0
-  watchdog==6.0.0
-  wcwidth==0.6.0
-  websockets==16.0
-  yarl==1.22.0
